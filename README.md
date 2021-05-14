@@ -1,5 +1,5 @@
 # :smile:
-Olá! Meu nome é Henrique Ritter tenho 27 anos sou um apaixonado por idiomas, música e programação, atualmente estou estudando a stack Node,React,React-Native utilizando Typescript.
+Olá! Meu nome é Henrique Ritter tenho 27 anos gosto muito de idiomas, música e programação, atualmente estou estudando a stack Node, React, React-Native utilizando JS com Typescript.
 
 <a href="https://www.duolingo.com/profile/hrqritter"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/></a> <br>
 <a href="https://github.com/henriqueritter/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a> <br>
