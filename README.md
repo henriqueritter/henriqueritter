@@ -1,6 +1,8 @@
 
 Olá! Meu nome é Henrique Ritter tenho 27 anos e gosto muito de idiomas, música e programação, atualmente estou estudando a stack Node, React, React-Native utilizando JS com Typescript.
 
+Confira meus repositórios para acompanhar meus trabalhos e sinta-se livre para entrar em contato comigo por uma das redes abaixo.:relaxed:
+
 <a href="https://www.duolingo.com/profile/hrqritter"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/></a> 
 <a href="https://github.com/henriqueritter/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a> 
 <a href="https://www.linkedin.com/in/henrique-ritter/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
