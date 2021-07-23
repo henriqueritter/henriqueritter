@@ -11,6 +11,7 @@ Confira meus repositórios para acompanhar meus trabalhos e sinta-se livre para 
 <a href="https://app.rocketseat.com.br/me/henrique-ritter"> <b>:rocket: Rocketseat</b> </a> 
 <a href="https://www.hackerrank.com/henrique_ritter"> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 </div>
+</br>
 
 ![Henrique Ritter top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueritter&show_icons=true&theme=tokyonight&layout=compact&langs_count=15&hide=ruby,starlark,hack,objective-c) [![Henrique Ritter github streak](https://github-readme-streak-stats.herokuapp.com/?user=henriqueritter&theme=blue-green)](https://github.com/henriqueritter/github-readme-streak-stats)
 
