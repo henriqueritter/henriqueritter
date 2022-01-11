@@ -15,7 +15,6 @@ Confira meus repositórios para acompanhar meus trabalhos e sinta-se livre para 
 
 ![Henrique Ritter top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueritter&show_icons=true&theme=tokyonight&layout=compact&langs_count=15&hide=ruby,starlark,hack,objective-c) [![Henrique Ritter github streak](https://github-readme-streak-stats.herokuapp.com/?user=henriqueritter&theme=blue-green)](https://github.com/henriqueritter/github-readme-streak-stats)
 
-
 <!-- How to pin more Repos on Home
 ![Henrique Ritter top languages](https://github-readme-stats.vercel.app/api/pin/?username=henriqueritter&repo=Rocketseat-GoBarber)
 -->
