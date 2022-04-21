@@ -1,5 +1,5 @@
 
-Olá! Meu nome é Henrique Ritter tenho 27 anos e gosto muito de idiomas, música e programação, atualmente estou estudando a stack Node, React, React-Native utilizando JS com Typescript.
+Olá! Meu nome é Henrique Ritter tenho 28 anos e gosto muito de idiomas, música e programação, atualmente estou estudando a stack Node, React, React-Native utilizando JS com Typescript.
 
 Confira meus repositórios para acompanhar meus trabalhos e sinta-se livre para entrar em contato comigo por uma das redes abaixo.:relaxed:
 
