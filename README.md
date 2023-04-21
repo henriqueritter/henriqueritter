@@ -6,7 +6,7 @@ Olá! Meu nome é Henrique Ritter tenho 28 anos e sou apaixonado por música e p
 <a href="https://github.com/henriqueritter/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a> 
 <a href="https://www.linkedin.com/in/henrique-ritter/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 <a href="https://www.hackerrank.com/henrique_ritter"> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="youtube.com/@henriqueritter"> <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
+<a href="https://www.youtube.com/channel/UCyNOU4nsfpERr7573oxKbgw"> <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
 <a href="https://app.rocketseat.com.br/me/henrique-ritter"> <img  alt="Rocketseat" src="https://www.rocketseat.com.br/assets/logos/rocketseat.svg"/> </a>
 
    
